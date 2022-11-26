@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Jalesa.</h1>
-<h3 align="center">A passionate and motivated software engineer from New York.</h3>
+<h3 align="center">A passionate and motivated Software Engineer from New York.</h3>
 
 - 🔭 I’m currently working on **expanding my knowledge in front and backend development.**
 
